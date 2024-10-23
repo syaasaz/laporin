@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918124179497",
+    "project_id": "laporin-2a7ea",
+    "storage_bucket": "laporin-2a7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918124179497:android:4b32a6c77be7d41e5c2c38",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyaAv0UrAFDUJUdxN5Rye5Lrn7z8h1vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
